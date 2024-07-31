@@ -1,0 +1,10 @@
+John Doe,0123456789,john.doe@example.com
+Jane Smith,0987654321,jane.smith@example.com
+Michael Johnson,0132456798,michael.johnson@example.com
+Emily Brown,0765432190,emily.brown@example.com
+David Wilson,0912345678,david.wilson@example.com
+Sarah Taylor,0890765432,sarah.taylor@example.com
+Christopher Martinez,0101234567,christopher.martinez@example.com
+Amanda Davis,0678901234,amanda.davis@example.com
+Matthew Anderson,0143567890,matthew.anderson@example.com
+Fulufhelo Mulaudzi,0647259797,fulumula078@gmail.com
